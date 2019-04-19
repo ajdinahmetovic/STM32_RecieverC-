@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\bin\Debug\STM32_Reciever.exe.config
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\bin\Debug\STM32_Reciever.exe
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\bin\Debug\STM32_Reciever.pdb
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.Form1.resources
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.Properties.Resources.resources
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.exe
+C:\Users\ahmet\source\repos\STM32_Reciever\STM32_Reciever\obj\Debug\STM32_Reciever.pdb
